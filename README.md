@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Screen recording of the app:
+Screen Recording of the app:
 [DicerRollRecord.webm](https://github.com/roshan-04/FlutterDiceRoller/assets/114808624/42ff8c62-fb52-4a60-8c45-062d9668c7be)
 
 
