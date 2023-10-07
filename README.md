@@ -1,6 +1,6 @@
 # Dice Roller App
 
-A new Flutter project.
+A new Flutter project. Learning new things in Flutter
 
 ## Getting Started
 
@@ -16,7 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Screen recording of the app:
-[Uploading DicerRollRecord.webm…]()
+[DicerRollRecord.webm](https://github.com/roshan-04/FlutterDiceRoller/assets/114808624/42ff8c62-fb52-4a60-8c45-062d9668c7be)
+
 
 
 
