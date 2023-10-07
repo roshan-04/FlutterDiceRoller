@@ -1,4 +1,4 @@
-# bukye
+# Dice Roller App
 
 A new Flutter project.
 
